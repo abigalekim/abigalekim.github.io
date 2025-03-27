@@ -37,7 +37,7 @@ Currently, CMU SCS offers four bachelor's degrees:
 
 Although the computer science degree sounds very general, all students who major in computer science are required to pick a concentration (think a minor, but in a sub-field of CS), minor, or additional major to complete at CMU. Essentially, you're required to explore at least one area of study outside the general CS curriculum. Even if this may seem like extra work, I view it as a really good thing, since it provides excellent motivation to explore your academic interests.
 
-You can find a list of computer science concentrations [here](https://www.cs.cmu.edu/undergraduate-concentrations). I've also compiled websites listing the minors offered per school below:
+You can find a list of computer science concentrations [here](http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scsconcentrations/). I've also compiled websites listing the minors offered per school below:
 - [College of Engineering (CIT)](http://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/minorsfornonengineeringstudents/)
 - [College of Fine Arts (CFA)](https://www.cmu.edu/cfa/schools-and-academic-programs/majors-and-minors/index.html)
 - [Dietrich College of Humanities & Social Sciences](https://www.cmu.edu/dietrich/academics/degrees-majors-minors/minors.html)

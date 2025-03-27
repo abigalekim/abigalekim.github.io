@@ -38,7 +38,7 @@ DynamoDB is a highly available key-value store released in 2012 by Amazon Web Se
 ## DuckDB
 DuckDB is an embeddable OLAP DBMS developed by researchers at Centrum Wiskunde & Informatica (CWI), a computer science research institute in the Netherlands. It aims to provide a solution for embeddable analytical data management, which is useful in the fields of data analytics and edge computing. One of the key features of DuckDB is their customized vector format. DuckDB uses several different vector representations, which allow it to store a compressed physical version of data, and push compressed data through their execution engine.
 ![](/assets/img/duckdbvectors.png)
-DuckDB's push-based execution engine is designed to support high amounts of parallelism. For instance, AWS instances running DuckDB can use up to 192 cores. In their implementation, their `Source` (getting data) and `Sink` (combining results from operators) methods are parallelism aware, but the operator methods themselves are not parallelism aware. One advantage of this is that handling the movement of data in a central location allows for optimizations. One example of this is scan sharing, implemented by pushing the results of operators into multiple sinks. DuckDB also uses a [morsel-driven](https://15721.courses.cs.cmu.edu/spring2016/papers/p743-leis.pdf) parallelism model, adapted from TUM's database system HyPeR. Overall, DuckDB's impact on the industry is very [noticeable](https://duckdb.org/docs/twitter_wall.html), especially given how new of a system it is!
+DuckDB's push-based execution engine is designed to support high amounts of parallelism. For instance, AWS instances running DuckDB can use up to 192 cores. In their implementation, their `Source` (getting data) and `Sink` (combining results from operators) methods are parallelism aware, but the operator methods themselves are not parallelism aware. One advantage of this is that handling the movement of data in a central location allows for optimizations. One example of this is scan sharing, implemented by pushing the results of operators into multiple sinks. DuckDB also uses a [morsel-driven](https://15721.courses.cs.cmu.edu/spring2016/papers/p743-leis.pdf) parallelism model, adapted from TUM's database system HyPeR. Overall, DuckDB's impact on the industry is very noticeable, especially given how new of a system it is!
 
 ## Conclusion
 Ultimately, this turned into a "things I personally found interesting about database systems I've seen recently" post as opposed to "this are the de-facto features that make these databases systems special" post; however, I like this style better! If you read the post, I hope you learned something, and feel free to give me any feedback or let me know if I got anything wrong.
@@ -48,7 +48,7 @@ I would like to thank my friend [Yaotian Feng](https://codetector.org/) for read
 
 ## References
 - [Looking Back at Postgres](https://arxiv.org/pdf/1901.01973.pdf)
-- [Postgres 15 Docs](https://www.postgresql.org/docs/15/index.html/)
+- [Postgres 15 Docs](https://www.postgresql.org/docs/15/index.html)
 - [Building An Elastic Query Engine on Disaggregated Storage](https://15721.courses.cs.cmu.edu/spring2023/papers/02-modern/vuppalapati-nsdi22.pdf)
 - [The Snowflake Elastic Data Warehouse](https://15721.courses.cs.cmu.edu/spring2023/papers/21-snowflake/p215-dageville-snowflake.pdf)
 - [Photon: A Fast Query Engine for Lakehouse Systems](https://15721.courses.cs.cmu.edu/spring2023/papers/20-databricks/sigmod_photon.pdf)
