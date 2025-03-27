@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Materials for courses you taught. Replace this text with your description.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "nav-blog",
           title: "blog",
           description: "",
@@ -25,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cmu-courses",
           title: "cmu courses",
-          description: "courses page",
+          description: "reviews of each of my nine semesters at carnegie mellon university.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/courses/";
@@ -36,13 +43,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "post-a-subset-of-database-systems-and-why-they-39-re-interesting-part-1",
         
