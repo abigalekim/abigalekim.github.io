@@ -50,7 +50,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: false
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -192,6 +192,9 @@ exclude:
   - _includes/projects.liquid
   - _pages/repositories.md
   - _includes/repository/
+  - _pages/dropdown.md
+  - _pages/profiles.md
+  - _pages/about_einstein.md
 
 keep_files:
   - CNAME
