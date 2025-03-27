@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Software Systems Curriculum Learning Objectives
+title: Software Systems Curriculum Learning Objectives
 date: 2022-11-10
 description:
 categories:
@@ -25,11 +25,11 @@ Students should learn how to design their own software systems, and features wit
 
 ### Systems implementation
 
-Students need to know how to understand a software system specification and convert it into code that is reliable and performs well. Students will need to be capable of translating ideas into a lower-level programming language, writing comprehensive, extensive, and robust tests (both for correctness and performance), and debugging all sorts of failures in their code. 
+Students need to know how to understand a software system specification and convert it into code that is reliable and performs well. Students will need to be capable of translating ideas into a lower-level programming language, writing comprehensive, extensive, and robust tests (both for correctness and performance), and debugging all sorts of failures in their code.
 
 ### Translating ideas
 
-Students should learn how to translate higher level ideas into code. This includes learning how to think in different paradigms, such as functional/imperative, object-oriented programming, event-driven programming, and procedural programming. Students should also be prepared to implement software systems in different languages, depending on the purpose of the system. 
+Students should learn how to translate higher level ideas into code. This includes learning how to think in different paradigms, such as functional/imperative, object-oriented programming, event-driven programming, and procedural programming. Students should also be prepared to implement software systems in different languages, depending on the purpose of the system.
 
 ### Writing tests
 
@@ -41,11 +41,12 @@ Students will inevitably run into a lot of bugs when working on software systems
 
 ### Asking for help (the right way!)
 
-Inevitably, in a difficult environment such as software systems development, a student will struggle. Whether it is to design, implement, or debug a feature, a student should know how to gain information about their predicament and figure out what exactly they do not know. 
+Inevitably, in a difficult environment such as software systems development, a student will struggle. Whether it is to design, implement, or debug a feature, a student should know how to gain information about their predicament and figure out what exactly they do not know.
 
 ### Conclusion
 
 This naturally raises a couple questions:
+
 - Experience is a guaranteed way to learn all of these skills. But is there a way to design curriculum such that learning these skills is necessary to completing the curriculum?
 - Can a subset of these skills be self-taught (like, without the aid of classes)? Can all of them be self-taught?
 
