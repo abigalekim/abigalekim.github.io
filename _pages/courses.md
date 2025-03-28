@@ -9,7 +9,7 @@ nav_order: 3
 
 My page is somewhat inspired by [Wan Shen Lim's](https://wanshenl.me/courses/) and [Frank Fan's](https://weihang7.github.io/courses/) course pages.
 
-Additionally, here are some other CMU course pages: [[1]](https://fanpu.io/courses/)[[2]](https://ruiran.me/courses/)[[3]](https://heleaf.me/blog/classes)[[4]](https://bokken12.github.io/reviews/)[[5]](https://pranavkumar.me/courses/)[[6]](https://pi314mm.github.io/courses.html)[[7]](https://bowad.net/courses/)[[8]](https://schlomer.xyz/cmu-courses/). Email me if you'd like me to add yours!
+Additionally, here are some other CMU course pages: [[1]](https://fanpu.io/courses/)[[2]](https://ruiran.me/courses/)[[3]](https://bokken12.github.io/reviews/)[[4]](https://pranavkumar.me/courses/)[[5]](https://bowad.net/courses/)[[6]](https://schlomer.xyz/cmu-courses/). Email me if you'd like me to add yours!
 
 Typical disclaimer that opinions are mine and do not represent the opinions of my employer/college.
 
