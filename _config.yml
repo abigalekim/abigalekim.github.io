@@ -195,6 +195,8 @@ exclude:
   - _pages/dropdown.md
   - _pages/profiles.md
   - _pages/about_einstein.md
+  - _pages/cv.md
+  - _data/cv.yml
 
 keep_files:
   - CNAME
