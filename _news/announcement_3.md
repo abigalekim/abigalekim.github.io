@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-9-05
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Developed a [modern C++ bootcamp](https://github.com/cmu-db/15445-bootcamp) for CMU's database systems class this semester.
