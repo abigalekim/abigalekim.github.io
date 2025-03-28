@@ -31,5 +31,3 @@ I'm a PhD student in the [Computer Sciences Department](https://www.cs.wisc.edu/
 [Carnegie Mellon's School of Computer Science](https://csd.cmu.edu/), where I was advised by [Dr. Andy Pavlo](http://www.cs.cmu.edu/~pavlo/). My academic interests are database management systems and computer science education.
 
 In my free time, I enjoy listening to [Taylor Swift](https://twitter.com/abigale_kim/status/1645590351166722050) and fiber crafting. Feel free to reach out abigalekim0417[at]gmail[dot]com or abigale[at]cs[dot]wisc[dot]edu. I'm happy to chat and connect!
-
-This site is currently in progress!
