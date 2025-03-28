@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/courses/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "post-a-subset-of-database-systems-and-why-they-39-re-interesting-part-1",
         
           title: "A Subset of Database Systems (and Why They&#39;re Interesting), Part 1",
