@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: a summary of my teaching experience.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 All positions are affilated with Carnegie Mellon University.

@@ -4,7 +4,7 @@ permalink: /courses/
 title: cmu courses
 description: reviews of each of my nine semesters at carnegie mellon university.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 My page is somewhat inspired by [Wan Shen Lim's](https://wanshenl.me/courses/) and [Frank Fan's](https://weihang7.github.io/courses/) course pages.
