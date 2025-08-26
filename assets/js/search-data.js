@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "a summary of my teaching experience.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
+          },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "a summary of my teaching experience.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
           },
         },{id: "nav-cmu-courses",
           title: "cmu courses",
@@ -112,7 +112,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("bsky.app/profile/abigalekim.bsky.social", "_blank");
+          window.open("https://bsky.app/profile/abigalekim.bsky.social", "_blank");
         },
       },{
         id: 'social-email',
