@@ -81,12 +81,7 @@ ninja.data = [{
             window.location.href = "/whycmuscs/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-started-my-master-s-program-at-cmu-scs",
+      },{id: "news-started-my-master-s-program-at-cmu-scs",
           title: 'Started my master’s program at CMU SCS!',
           description: "",
           section: "News",},{id: "news-moved-my-website-from-the-reverie-jekyll-template-to-the-al-folio-jekyll-template",
