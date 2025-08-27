@@ -108,8 +108,8 @@ ninja.data = [{
           section: "News",},{id: "news-my-group-s-paper-rethinking-analytical-processing-in-the-gpu-era-is-up-on-arxiv",
           title: 'My group’s paper “Rethinking Analytical Processing in the GPU Era” is up on...',
           description: "",
-          section: "News",},{id: "news-i-will-be-at-vldb-2025-in-london",
-          title: 'I will be at VLDB 2025 in London!',
+          section: "News",},{id: "news-i-will-be-at-vldb-2025-in-london-let-s-talk-if-you-are-also-in-town",
+          title: 'I will be at VLDB 2025 in London! Let’s talk if you are...',
           description: "",
           section: "News",},{
         id: 'social-bluesky',
