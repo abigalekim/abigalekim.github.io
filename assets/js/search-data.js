@@ -114,6 +114,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-at-midwest-data-day-2026-in-chicago-presenting-a-poster-on-heterogeneous-string-pattern-matching",
           title: 'I will be at Midwest Data Day 2026 in Chicago, presenting a poster...',
           description: "",
+          section: "News",},{id: "news-i-will-be-interning-at-nvidia-this-summer-on-the-rapids-cudf-team",
+          title: 'I will be interning at NVIDIA this summer on the RAPIDS cuDF team!...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
