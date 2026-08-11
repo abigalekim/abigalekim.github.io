@@ -111,7 +111,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-at-vldb-2025-in-london-let-s-talk-if-you-are-also-in-town",
           title: 'I will be at VLDB 2025 in London! Let’s talk if you are...',
           description: "",
-          section: "News",},{id: "news-i-will-be-at-midwest-data-day-2026-in-chicago-presenting-a-poster-on-heterogeneous-string-pattern-matching",
+          section: "News",},{id: "news-i-will-be-at-midwest-data-day-2026-in-chicago-presenting-a-poster-on-gpu-accelerated-heterogeneous-string-pattern-matching",
           title: 'I will be at Midwest Data Day 2026 in Chicago, presenting a poster...',
           description: "",
           section: "News",},{id: "news-i-will-be-interning-at-nvidia-this-summer-on-the-rapids-cudf-team",
