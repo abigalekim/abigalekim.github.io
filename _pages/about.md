@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office #7581</p>
-    <p>1210 W Dayton St</p>
+    <p>1205 University Ave</p>
     <p>Madison, WI 53706</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a 2nd year PhD student in the [Computer Sciences Department](https://www.cs.wisc.edu/) at the [University of Wisconsin–Madison](https://www.wisc.edu/). I am advised by [Dr. Xiangyao Yu](https://pages.cs.wisc.edu/~yxy/), and am a member of the [UW–Madison Databases Group](https://database.cs.wisc.edu/). Previously, I was a Software Engineer at [TileDB](https://tiledb.com/), working on their [open-source data engine](https://github.com/TileDB-Inc/TileDB). I completed my B.Sc. and M.Sc. at
-[Carnegie Mellon's School of Computer Science](https://csd.cmu.edu/), where I was advised by [Dr. Andy Pavlo](http://www.cs.cmu.edu/~pavlo/). My academic interests are database management systems and computer science education.
+I'm a 3rd year PhD student in the [Computer Sciences Department](https://www.cs.wisc.edu/) at the [University of Wisconsin–Madison](https://www.wisc.edu/). My advisor is [Dr. Xiangyao Yu](https://pages.cs.wisc.edu/~yxy/), and I am a member of the [UW–Madison Databases Group](https://database.cs.wisc.edu/). I work on GPU-accelerated database systems, with a focus on variable-length data processing.
 
-In my free time, I enjoy listening to [Taylor Swift](https://twitter.com/abigale_kim/status/1645590351166722050) and fiber crafting. Feel free to reach out abigalekim0417[at]gmail[dot]com or abigale[at]cs[dot]wisc[dot]edu. I'm happy to chat and connect!
+Previously, I was a Software Engineer at [TileDB](https://tiledb.com/), working on their [open-source data engine](https://github.com/TileDB-Inc/TileDB). I completed my B.Sc. and M.Sc. at
+[Carnegie Mellon's School of Computer Science](https://csd.cmu.edu/), where I was advised by [Dr. Andy Pavlo](http://www.cs.cmu.edu/~pavlo/).
+
+In my free time, I enjoy running, climbing, and making [art](/art). Feel free to reach out by emailing me at abigalekim0417[at]gmail[dot]com or abigale[at]cs[dot]wisc[dot]edu. I'm happy to chat and connect!
