@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/courses/";
           },
+        },{id: "nav-art",
+          title: "art",
+          description: "tbw",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/art/";
+          },
         },{id: "post-a-subset-of-database-systems-and-why-they-39-re-interesting-part-1",
         
           title: "A Subset of Database Systems (and Why They&#39;re Interesting), Part 1",
