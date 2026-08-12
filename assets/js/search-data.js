@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-art",
           title: "art",
-          description: "tbw",
+          description: "selected artwork from my coursework at uw—madison.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/art/";
