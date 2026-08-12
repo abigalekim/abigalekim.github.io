@@ -9,7 +9,7 @@ nav_order: 3
 
 ## University of Wisconsin–Madison
 
-- Teaching Assistant for CS 564: Database Management Systems: Design and Implementation
+- Teaching Assistant for CS 564: Database Management Systems: Design and Implementation (Spring 2026)
 
 ## Carnegie Mellon University
 
