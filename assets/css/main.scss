@@ -59,12 +59,12 @@ $max-content-width: {{ site.max_width }};
 }
 
 .art-img-large {
-  width: 70%;
+  width: 100%;
   display: block;
 }
 
 @media (min-width: 768px) {
   .art-img-large {
-    width: 90%;
+    width: 80%;
   }
 }
