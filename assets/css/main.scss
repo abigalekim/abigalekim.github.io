@@ -47,8 +47,24 @@ $max-content-width: {{ site.max_width }};
   margin-bottom: 0.5rem;
 }
 
+.art-col img {
+  width: 100%;
+  display: block;
+}
+
 @media (min-width: 768px) {
   .art-caption--aligned {
     min-height: 4.5rem;
+  }
+}
+
+.art-img-large {
+  width: 70%;
+  display: block;
+}
+
+@media (min-width: 768px) {
+  .art-img-large {
+    width: 90%;
   }
 }
