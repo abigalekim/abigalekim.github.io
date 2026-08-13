@@ -30,11 +30,20 @@ Sunflower, compressed charcoal on paper
 
 ## ART 212 (Drawing Foundations)
 
+<div class="art-row" markdown="1">
+<div class="art-col" markdown="1">
 Cloth still life exercise, conte crayon on paper
-![](/assets/art/cloth_still_life.jpg){:class="art-img rounded z-depth-1"}
 
+![](https://abigalekim.github.io/assets/art/cloth_still_life.jpg)
+
+</div>
+<div class="art-col" markdown="1">
 Coffee cup still life exercise, conte crayon on paper
-![](/assets/art/coffee_cup.jpg){:class="art-img rounded z-depth-1"}
+
+![](https://abigalekim.github.io/assets/art/coffee_cup.jpg)
+
+</div>
+</div>
 
 ## ART 242 (Watercolor 1)
 
@@ -43,19 +52,38 @@ Radioactive Peppers, watercolor on paper
 
 ## ART 302 (Color)
 
+<div class="art-row" markdown="1">
+<div class="art-col" markdown="1">
 Korean fruits, acrylic on canvas
-![](/assets/art/korean_fruits.jpeg){:class="art-img rounded z-depth-1"}
 
-[Defect](https://store.steampowered.com/app/2868840/Slay_the_Spire_2/), acrylic on canvas
-![](/assets/art/defect.jpeg){:class="art-img rounded z-depth-1"}
+![](/assets/art/korean_fruits.jpeg){:class="art-img rounded z-depth-1 mb-3"}
 
 Untitled, acrylic on canvas
+
 ![](/assets/art/color_theory_final.jpeg){:class="art-img rounded z-depth-1"}
+
+</div>
+<div class="art-col" markdown="1">
+[Defect](https://store.steampowered.com/app/2868840/Slay_the_Spire_2/), acrylic on canvas
+
+![](/assets/art/defect.jpeg){:class="art-img rounded z-depth-1"}
+
+</div>
+</div>
 
 ## ART 448 (UW City as Studio: Drawing in Portugal)
 
+<div class="art-row" markdown="1">
+<div class="art-col" markdown="1">
 Untitled, ceramic paint on tiles
-![](/assets/art/tiles.jpeg){:class="art-img rounded z-depth-1"}
 
+![](https://abigalekim.github.io/assets/art/tiles.jpeg)
+
+</div>
+<div class="art-col" markdown="1">
 Fonte dos Leões, watercolor on paper
-![](/assets/art/fonte_dos_leões.jpeg){:class="art-img rounded z-depth-1"}
+
+![](https://abigalekim.github.io/assets/art/fonte_dos_leões.jpeg)
+
+</div>
+</div>
