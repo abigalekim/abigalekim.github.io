@@ -16,12 +16,14 @@ The rest of this page functions as a portfolio of my favorite works. Most of the
 <div class="art-row" markdown="1">
 <div class="art-col" markdown="1">
 Deconstructed Fruit Salad, vine charcoal on paper (presented at [Wisconsin Union Annual Student Art Show 2025](https://union.wisc.edu/get-involved/wud/art/student-art-show))
+{:.art-caption--aligned}
 
 ![](/assets/art/fruit_salad.jpg)
 
 </div>
 <div class="art-col" markdown="1">
 Sunflower, compressed charcoal on paper
+{:.art-caption--aligned}
 
 ![](/assets/art/sunflower.jpg)
 
@@ -48,7 +50,8 @@ Coffee cup still life exercise, conte crayon on paper
 ## ART 242 (Watercolor 1)
 
 Radioactive Peppers, watercolor on paper
-![](/assets/art/radioactive.jpg){:class="art-img rounded z-depth-1"}
+
+![](https://abigalekim.github.io/assets/art/radioactive.jpg){:class="art-img-large"}
 
 ## ART 302 (Color)
 
@@ -56,7 +59,7 @@ Radioactive Peppers, watercolor on paper
 <div class="art-col" markdown="1">
 Korean fruits, acrylic on canvas
 
-![](/assets/art/korean_fruits.jpeg){:class="art-img rounded z-depth-1 mb-3"}
+![](/assets/art/korean_fruits.jpeg){:class="art-img rounded z-depth-1"}
 
 Untitled, acrylic on canvas
 
