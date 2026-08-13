@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2026-04-24
+date: 2026-06-08
 inline: true
 ---
 
-I will be at [Midwest Data Day 2026](https://www.cs.purdue.edu/homes/chunwei/mwdb.html) in Chicago, presenting a poster on GPU-accelerated heterogeneous string pattern matching.
+I will be interning at NVIDIA this summer on the RAPIDS cuDF team, working on GPU-accelerated Parquet Variant data processing!
