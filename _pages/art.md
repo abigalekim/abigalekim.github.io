@@ -46,5 +46,5 @@ Untitled, acrylic on canvas
 Untitled, ceramic paint on tiles
 ![](/assets/art/tiles.jpeg){:class="art-img rounded z-depth-1"}
 
-Fonte dos_Leões, watercolor on paper
+Fonte dos Leões, watercolor on paper
 ![](/assets/art/fonte_dos_leões.jpeg){:class="art-img rounded z-depth-1"}
