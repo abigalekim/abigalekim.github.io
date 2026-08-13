@@ -35,6 +35,9 @@ Radioactive Peppers, watercolor on paper
 
 ## ART 302 (Color)
 
+Korean fruits, acrylic on canvas
+![](/assets/art/korean_fruits.jpeg){:class="art-img rounded z-depth-1"}
+
 [Defect](https://store.steampowered.com/app/2868840/Slay_the_Spire_2/), acrylic on canvas
 ![](/assets/art/defect.jpeg){:class="art-img rounded z-depth-1"}
 
