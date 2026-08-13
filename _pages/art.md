@@ -13,12 +13,20 @@ The rest of this page functions as a portfolio of my favorite works. Most of the
 
 ## ART 112 (Drawing for Non-Art Majors)
 
+<div class="art-row" markdown="1">
+<div class="art-col" markdown="1">
 Deconstructed Fruit Salad, vine charcoal on paper (presented at [Wisconsin Union Annual Student Art Show 2025](https://union.wisc.edu/get-involved/wud/art/student-art-show))
 
-![](/assets/art/fruit_salad.jpg){:class="art-img rounded z-depth-1"}
+![](/assets/art/fruit_salad.jpg)
 
+</div>
+<div class="art-col" markdown="1">
 Sunflower, compressed charcoal on paper
-![](/assets/art/sunflower.jpg){:class="art-img rounded z-depth-1"}
+
+![](/assets/art/sunflower.jpg)
+
+</div>
+</div>
 
 ## ART 212 (Drawing Foundations)
 

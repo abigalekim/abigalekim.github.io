@@ -24,14 +24,37 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-.art-img {
-  width: 50%;
-  display: block;
-  margin: 0;
+.art-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.art-col {
+  flex: 0 0 100%;
+  max-width: 100%;
 }
 
 @media (min-width: 768px) {
-  .art-img {
-    width: 50%;
+  .art-col {
+    flex: 0 0 40%;
+    max-width: 40%;
+  }
+}
+
+.art-col img {
+  width: 100%;
+  display: block;
+}
+
+.art-img-large {
+  width: 100%;
+  display: block;
+}
+
+@media (min-width: 768px) {
+  .art-img-large {
+    width: 60%;
   }
 }
