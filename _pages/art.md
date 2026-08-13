@@ -13,38 +13,38 @@ The rest of this page functions as a portfolio of my favorite works. Most of the
 
 ## ART 112 (Drawing for Non-Art Majors)
 
-Deconstructed Fruit Salad, vine charcoal on paper (presented at Wisconsin Union Annual Student Art Show 2025)
+Deconstructed Fruit Salad, vine charcoal on paper (presented at [Wisconsin Union Annual Student Art Show 2025](https://union.wisc.edu/get-involved/wud/art/student-art-show))
 
-![](/assets/art/fruit_salad.jpg){:class="img-fluid rounded z-depth-1"}
+![](/assets/art/fruit_salad.jpg){:class="art-img rounded z-depth-1"}
 
 Sunflower, compressed charcoal on paper
-![](/assets/art/sunflower.jpg){:class="img-fluid rounded z-depth-1"}
+![](/assets/art/sunflower.jpg){:class="art-img rounded z-depth-1"}
 
 ## ART 212 (Drawing Foundations)
 
 Cloth still life exercise, conte crayon on paper
-![](/assets/art/cloth_still_life.jpg){:class="img-fluid rounded z-depth-1"}
+![](/assets/art/cloth_still_life.jpg){:class="art-img rounded z-depth-1"}
 
 Coffee cup still life exercise, conte crayon on paper
-![](/assets/art/coffee_cup.jpg){:class="img-fluid rounded z-depth-1"}
+![](/assets/art/coffee_cup.jpg){:class="art-img rounded z-depth-1"}
 
 ## ART 242 (Watercolor 1)
 
 Radioactive Peppers, watercolor on paper
-![](/assets/art/radioactive.jpg){:class="img-fluid rounded z-depth-1"}
+![](/assets/art/radioactive.jpg){:class="art-img rounded z-depth-1"}
 
 ## ART 302 (Color)
 
 [Defect](https://store.steampowered.com/app/2868840/Slay_the_Spire_2/), acrylic on canvas
-![](/assets/art/defect.jpeg){:class="img-fluid rounded z-depth-1"}
+![](/assets/art/defect.jpeg){:class="art-img rounded z-depth-1"}
 
 Untitled, acrylic on canvas
-![](/assets/art/color_theory_final.jpeg){:class="img-fluid rounded z-depth-1"}
+![](/assets/art/color_theory_final.jpeg){:class="art-img rounded z-depth-1"}
 
 ## ART 448 (UW City as Studio: Drawing in Portugal)
 
 Untitled, ceramic paint on tiles
-![](/assets/art/tiles.jpeg){:class="img-fluid rounded z-depth-1"}
+![](/assets/art/tiles.jpeg){:class="art-img rounded z-depth-1"}
 
 Fonte dos_Leões, watercolor on paper
-![](/assets/art/fonte_dos_leões.jpeg){:class="img-fluid rounded z-depth-1"}
+![](/assets/art/fonte_dos_leões.jpeg){:class="art-img rounded z-depth-1"}
